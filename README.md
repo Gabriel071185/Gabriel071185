@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gabriel071185
-- 👀 I’m interested in learning Python language...
+- 👋 Hi, my name is Gabriel Etchegoyen and i am from Argentina, Buenos Aires
+- 👀 I’m interested in learning Python language and web development...
 - 🌱 I’m currently learning Django rest Framework
 - 💞️ I’m looking to collaborate on any project 
 - 📫 Contact me with my Linkedin profile: www.linkedin.com/in/gabriel-etchegoyen
