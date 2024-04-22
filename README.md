@@ -1,4 +1,4 @@
-![Blue Corporate Linkedin Article Cover image](main/Blue Corporate Linkedin Article Cover image .png)
+![img](https://github.com/Gabriel071185/Gabriel071185/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
 
 
 
