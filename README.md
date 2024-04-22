@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](Blue Corporate Linkedin Article Cover image .png)
 
 
 
