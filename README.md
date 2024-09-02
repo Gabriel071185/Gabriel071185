@@ -19,11 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=Gabriel071185&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👋 Hi, my name is Gabriel Etchegoyen and i am from Argentina, Buenos Aires
-- 👀 I’m interested in learning Python language and web development...
-- 🌱 I’m currently learning Django rest Framework
-- 💞️ I’m looking to collaborate on any project 
-- 📫 Contact me with my Linkedin profile: www.linkedin.com/in/gabriel-etchegoyen
 
 <!---
 Gabriel071185/Gabriel071185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
