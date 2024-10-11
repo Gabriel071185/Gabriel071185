@@ -1,4 +1,4 @@
-![img](https://github.com/Gabriel071185/Gabriel071185/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
+![img](https://github.com/Gabriel071185/Gabriel071185/blob/main/Banner_linkedin.jpg)
 
 
 # 💫 About Me:
