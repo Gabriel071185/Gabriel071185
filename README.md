@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, my name is Gabriel Etchegoyen and i am from Argentina, Buenos Aires<br>👀 I’m interested in learning Python language and web development...<br>🌱 I’m currently learning Django rest Framework<br>💞️ I’m looking to collaborate on any project<br>📫 Contact me with my Linkedin profile: www.linkedin.com/in/gabriel-etchegoyen
+👋 Hi, my name is Gabriel Etchegoyen and i am from Argentina, Buenos Aires<br>👀 I’m interested in learning Python language and web development...<br>🌱 I’m currently learning Django rest Framework<br>💞️ I’m looking to collaborate on any project<br>📫 Contact me through my Linkedin profile: www.linkedin.com/in/gabriel-etchegoyen<br>🛠️ **My Portfolio:** https://gabyetche-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
