@@ -1,4 +1,4 @@
-![img](https://github.com/Gabriel071185/Gabriel071185/blob/main/Banner_linkedin.jpg)
+![img](https://github.com/Gabriel071185/Gabriel071185/blob/main/Banner_Github.png)
 
 
 # 💫 About Me:
