@@ -45,9 +45,12 @@ class Gabriel:
     status = "OPEN_TO_WORK"  # <-- importante
 ```
 
-> **Lo que me diferencia:** No soy solo un dev que escribe código.  
-> Vengo del lado del negocio — sé exactamente *por qué* se construye lo que se construye,  
-> y eso se nota en cada línea que escribo.
+```
+Llegué al código desde el negocio — y eso me cambió la forma de ver cada problema.
+Recorro el proceso, escucho al usuario y me hago las preguntas antes de escribir la primera línea.
+Siempre con ganas de aprender lo que todavía no sé.
+
+```
 
 ---
 
