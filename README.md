@@ -79,11 +79,6 @@ Actualmente cursando la **Tecnicatura en Programación — UTN San Nicolás**.
 
 ---
 
-## 🏆 Trofeos
-
-![](https://github-profile-trophy.vercel.app/?username=Gabriel071185&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 📈 Actividad
 
@@ -94,7 +89,7 @@ Actualmente cursando la **Tecnicatura en Programación — UTN San Nicolás**.
 [![](https://visitcount.itsvg.in/api?id=Gabriel071185&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-*Diseñado & construido con 🐍 por Gabriel Etchegoyen*
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
