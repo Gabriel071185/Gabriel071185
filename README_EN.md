@@ -43,10 +43,13 @@ class Gabriel:
 
     status = "OPEN_TO_WORK"  # <-- this one matters
 ```
+```
 
-> **What sets me apart:** I'm not just a dev who writes code.  
-> I come from the business side — I know exactly *why* something is being built,  
-> and that shows in every line I write.
+I came to code from the business side — and that changed the way I see every problem.
+I walk through the process, listen to the user, and ask the right questions before writing the first line.
+Always eager to learn what I don't know yet.
+
+```
 
 ---
 
