@@ -1,7 +1,7 @@
 <div align="center">
 
 [![EN](https://img.shields.io/badge/🇺🇸-English-0d1117?style=for-the-badge)](README_EN.md)
-[![ES](https://img.shields.io/badge/🇦🇷-Español-74b9ff?style=for-the-badge)](README.md)
+[![ES](https://img.shields.io/badge/🇦🇷-Español-74b9ff?style=for-the-badge)](README_ES.md)
 
 ![Banner](https://github.com/Gabriel071185/Gabriel071185/raw/main/Banner_Github.png)
 
