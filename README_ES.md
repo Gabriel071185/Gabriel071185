@@ -147,7 +147,7 @@ $ cat education.log
 | 📧 Email | [gabrieletchegoyen@gmail.com](mailto:gabrieletchegoyen@gmail.com) |
 | 🌐 Portfolio | [gabyetche-portfolio.netlify.app](https://gabyetche-portfolio.netlify.app/) |
 
-[![Visitas](https://visitcount.itsvg.in/api?id=Gabriel071185&icon=5&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Gabriel071185&color=58a6ff&style=for-the-badge&label=VISITAS)
 
 *Hecho con 🧉 y mucho Python · Campana, Buenos Aires, Argentina 🇦🇷*
 
